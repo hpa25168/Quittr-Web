@@ -1,7 +1,7 @@
 {
   "name": "quittr-web",
   "private": true,
-  "homepage": "https://hpa25168.github.io/Quittr-Web",
+  "homepage": "https://hpa25168.github.io/Quittr-Web/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
