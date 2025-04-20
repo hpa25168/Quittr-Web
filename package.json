@@ -1,13 +1,14 @@
 {
-  "name": "quittr-app",
+  "name": "quittr-web",
   "private": true,
-  "homepage": "https://github.com/hpa25168/Quittr-Web",
+  "homepage": "https://hpa25168.github.io/Quittr-Web",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.2.0",
