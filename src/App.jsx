@@ -90,7 +90,7 @@ export default function QuittrApp() {
         ref={audioRef}
         loop
         preload="auto"
-        src="calm-waves-soft-piano.mp3"
+        src="public/calm-waves-soft-piano.mp3"
       />
 
       <div className="w-full max-w-5xl mb-6">
