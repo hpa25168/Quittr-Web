@@ -1,6 +1,7 @@
 {
   "name": "quittr-app",
   "private": true,
+  "homepage": "https://github.com/hpa25168/Quittr-Web",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -15,6 +16,7 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.5",
     "vite": "^4.3.9"
